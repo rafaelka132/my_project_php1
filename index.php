@@ -1,7 +1,4 @@
-<?php
-error_reporting(E_ALL);
-ini_set('display_errors', true);
-?>
+
 <!doctype html>
 <html class="antialiased" lang="ru">
 <?php include 'templates/header.php'?>
